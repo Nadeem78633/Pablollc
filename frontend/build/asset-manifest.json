@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62167270.css",
+    "main.js": "/static/js/main.522e6265.js",
+    "static/media/thumb1.jpg": "/static/media/thumb1.1d9ec6e46279a06b62b8.jpg",
+    "static/media/thirdRing.svg": "/static/media/thirdRing.60f3cfcc0c58fa7ed2bbc24527aa6fee.svg",
+    "static/media/cute.jpg": "/static/media/cute.7cf23bc9975cbafbe1d1.jpg",
+    "static/media/thumb3.jpg": "/static/media/thumb3.48ed0148991072cf690c.jpg",
+    "static/media/thumb2.jpg": "/static/media/thumb2.2d2edbcacb5267a93b70.jpg",
+    "static/media/rectangle.svg": "/static/media/rectangle.b5c35bd65f8f74d2077ca0d9610f1eee.svg",
+    "static/media/secondRing.svg": "/static/media/secondRing.9a40f7a6ff1b1584b5e8b3ccc753cdda.svg",
+    "static/media/appbarbg.png": "/static/media/appbarbg.ca9cf706368d61d273ca.png",
+    "static/media/pendant.png": "/static/media/pendant.f0eb9cb1018da5728e2f.png",
+    "static/media/fifthRing.svg": "/static/media/fifthRing.790a7ce91cf295aa270cfbbd08b36785.svg",
+    "static/media/Girl.png": "/static/media/Girl.1343b9c78227f38fe56c.png",
+    "static/media/chokers.png": "/static/media/chokers.e14553cf35d04ff235c0.png",
+    "static/media/4thRing.svg": "/static/media/4thRing.c38081fe86bd8244b5c45ada3190097e.svg",
+    "static/media/brand.svg": "/static/media/brand.105bc92148f702464defd03ab9bd9edc.svg",
+    "static/media/necklase.png": "/static/media/necklase.7e73e36963686f360fe4.png",
+    "static/media/firstRing.svg": "/static/media/firstRing.9e90bbf6d180a019b331b0577cab712e.svg",
+    "static/media/doubleRectnagle.svg": "/static/media/doubleRectnagle.11b20a3a5dd8ccfcdd803ec0d9ae425b.svg",
+    "static/media/kids.png": "/static/media/kids.c850d576c4626bc30b0c.png",
+    "static/media/woman.png": "/static/media/woman.22c8bd95386953cb8aba.png",
+    "static/media/man.png": "/static/media/man.5d43c8d84796311d22f1.png",
+    "static/media/diamond.png": "/static/media/diamond.d9d162fe5f48a4a515b3.png",
+    "static/media/Dreams.svg": "/static/media/Dreams.8a8b3a8afa8655c0e3e025b62ccfda9a.svg",
+    "static/media/customJewellery.png": "/static/media/customJewellery.af45d04b9137072b3b7d.png",
+    "static/media/dialyWear.png": "/static/media/dialyWear.f86176ead1432804f146.png",
+    "static/media/gemstone.png": "/static/media/gemstone.779f7d18a160832eff8a.png",
+    "static/media/sign.svg": "/static/media/sign.03018aa2c75ee06673337754c1e94d10.svg",
+    "static/media/gold.svg": "/static/media/gold.3e3532cb7634f2b72c5a551856189628.svg",
+    "static/media/Vector (1).svg": "/static/media/Vector (1).828a5bc90dd02de25d7f19192033b6f9.svg",
+    "index.html": "/index.html",
+    "static/media/Vector.svg": "/static/media/Vector.332141211543dff59af3440d053eb993.svg",
+    "main.62167270.css.map": "/static/css/main.62167270.css.map",
+    "main.522e6265.js.map": "/static/js/main.522e6265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62167270.css",
+    "static/js/main.522e6265.js"
+  ]
+}
